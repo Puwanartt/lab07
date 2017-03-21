@@ -10,7 +10,7 @@ CREATE TABLE IF NOT EXISTS `provinces` (
   PRIMARY KEY (`PROVINCE_ID`)
 ) ENGINE=MyISAM  DEFAULT CHARSET=utf8 COLLATE=utf8_bin COMMENT='InnoDB free: 8192 kB; (`GEO_ID`) REFER `crewphra/geography`(' AUTO_INCREMENT=78 ;
 
---
+-- 
 -- Dumping data for table `provinces`
 --
 
