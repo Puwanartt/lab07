@@ -36,7 +36,7 @@ $conn->close();
 <title>ผลการลงทะเบียน</title>
 
 </head>
-<body>
+<body> 
 <br>
 <button class="button" style="vertical-align:middle" name="info" onclick="linkto();"><span>Info</span></button>
 <script>

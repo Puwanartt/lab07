@@ -34,7 +34,7 @@ if (!$result) die($conn->error);
         <th>ที่อยู่</th>
         <th>จังหวัด</th>
       </tr>
-    </thead>
+    </thead> 
     <tbody>
       <?php while ($row = $result->fetch_array()) { ?>
       <tr bgcolor="#FFFFE0">

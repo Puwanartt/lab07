@@ -1,7 +1,7 @@
 --
 -- Table structure for table `provinces`
 --
-  
+   
 CREATE TABLE IF NOT EXISTS `provinces` (
   `PROVINCE_ID` int(11) NOT NULL AUTO_INCREMENT,
   `PROVINCE_CODE` varchar(2) COLLATE utf8_bin NOT NULL,
