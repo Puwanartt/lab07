@@ -29,7 +29,7 @@ if (!$result) die($conn->error);
         <th>ลำดับ</th>
         <th>ชื่อ-นามสกุล</th> 
         <th>อีเมล์</th>
-        <th>เพศ</th>
+        <th>เพศ</th> 
         <th>ความสนใจ</th>
         <th>ที่อยู่</th>
         <th>จังหวัด</th>

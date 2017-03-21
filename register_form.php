@@ -58,19 +58,19 @@
         <tr bgcolor="#33FF66">
             </td>
             <td colspan="3" align="center">
-               <a href="er.png">
+               <a href="58160188.png">
                     <font color="#000000"><FONT FACE = "TH SarabunPSK " SIZE ="3" COLOR= "BLACK">ER Diagram</font>
             </td>
                         <td colspan="3" align="center">
-                <a href="">
+                <a href="https://github.com/Puwanartt/lab07/blob/master/register_form.php">
                     <font color="#000000"><FONT FACE = "TH SarabunPSK " SIZE ="3" COLOR= "BLACK">Source Code <br>register_form.php</font>
             </td>
                         <td colspan="3" align="center">
-                <a href="">
+                <a href="https://github.com/Puwanartt/lab07/blob/master/dopost.php">
                     <font color="#000000"><FONT FACE = "TH SarabunPSK " SIZE ="3" COLOR= "BLACK">Source Code <br>dopost.php</font>
             </td>
             <td colspan="3" align="center">
-                <a href="">
+                <a href="https://github.com/Puwanartt/lab07/blob/master/show_register.php">
                     <font color="#000000"><FONT FACE = "TH SarabunPSK " SIZE ="3" COLOR= "BLACK">Source Code <br>show_register.php</font>
             </td>
             </tr>    
