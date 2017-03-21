@@ -26,7 +26,7 @@ if (isset($_POST['submit'])) {
     } else {
         echo "Error: " . $sql . "<br>" . $conn->error;
     }
-}
+} 
 
 $conn->close(); 
 ?>

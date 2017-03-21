@@ -7,7 +7,7 @@
     "secure": false,
     "protocol": "sftp",
     "uploadOnSave": true,
-    "passive": false, 
+    "passive": false,  
     "debug": false,
     "privateKeyPath": null,
     "passphrase": null,

@@ -21,7 +21,7 @@ if (!$result) die($conn->error);
 </head>
 <body>
 
-<div class="container">
+<div class="container"> 
   <center><FONT FACE = "TH SarabunPSK " SIZE ="8" COLOR= "BLACK">รายชื่อผู้ลงทะเบียน</FONT></center>          
   <table class="table table-bordered" >
     <thead>
