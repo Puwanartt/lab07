@@ -28,7 +28,7 @@ if (isset($_POST['submit'])) {
     }
 }
 
-$conn->close();
+$conn->close(); 
 ?>
 <html>
 <head>
